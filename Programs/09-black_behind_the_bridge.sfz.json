@@ -491,7 +491,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e3_rr1.flac"
+            "value": "../Samples/black/btb/btb_e3_rr1.ogg"
           }
         },
         {
@@ -545,7 +545,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e3_rr2.flac"
+            "value": "../Samples/black/btb/btb_e3_rr2.ogg"
           }
         },
         {
@@ -607,7 +607,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr1.flac"
+            "value": "../Samples/black/btb/btb_f3_rr1.ogg"
           }
         },
         {
@@ -661,7 +661,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr2.flac"
+            "value": "../Samples/black/btb/btb_f3_rr2.ogg"
           }
         },
         {
@@ -723,7 +723,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -777,7 +777,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -839,7 +839,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -893,7 +893,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -955,7 +955,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -1009,7 +1009,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -1071,7 +1071,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -1125,7 +1125,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -1187,7 +1187,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -1241,7 +1241,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -1303,7 +1303,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -1357,7 +1357,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -1419,7 +1419,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -1473,7 +1473,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -1535,7 +1535,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -1589,7 +1589,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -1651,7 +1651,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -1705,7 +1705,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -1767,7 +1767,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -1821,7 +1821,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -1883,7 +1883,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -1937,7 +1937,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -1999,7 +1999,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -2053,7 +2053,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -2115,7 +2115,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -2169,7 +2169,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -2231,7 +2231,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -2285,7 +2285,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -2347,7 +2347,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -2401,7 +2401,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -2463,7 +2463,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -2517,7 +2517,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -2579,7 +2579,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -2633,7 +2633,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -2695,7 +2695,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -2749,7 +2749,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -2811,7 +2811,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -2857,7 +2857,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -2911,7 +2911,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -2965,7 +2965,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -3027,7 +3027,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -3081,7 +3081,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -3143,7 +3143,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -3197,7 +3197,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -3259,7 +3259,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -3313,7 +3313,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -3375,7 +3375,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -3429,7 +3429,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -3491,7 +3491,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -3545,7 +3545,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -3607,7 +3607,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -3661,7 +3661,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -3723,7 +3723,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -3777,7 +3777,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -3839,7 +3839,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -3893,7 +3893,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -3955,7 +3955,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -4009,7 +4009,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -4071,7 +4071,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -4125,7 +4125,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -4187,7 +4187,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -4241,7 +4241,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -4389,7 +4389,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e3_rr1.flac"
+            "value": "../Samples/black/btb/btb_e3_rr1.ogg"
           }
         },
         {
@@ -4459,7 +4459,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e3_rr2.flac"
+            "value": "../Samples/black/btb/btb_e3_rr2.ogg"
           }
         },
         {
@@ -4537,7 +4537,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr1.flac"
+            "value": "../Samples/black/btb/btb_f3_rr1.ogg"
           }
         },
         {
@@ -4607,7 +4607,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr2.flac"
+            "value": "../Samples/black/btb/btb_f3_rr2.ogg"
           }
         },
         {
@@ -4685,7 +4685,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -4755,7 +4755,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -4833,7 +4833,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -4903,7 +4903,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -4981,7 +4981,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -5051,7 +5051,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -5129,7 +5129,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -5199,7 +5199,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -5277,7 +5277,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -5347,7 +5347,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -5425,7 +5425,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -5495,7 +5495,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -5573,7 +5573,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -5643,7 +5643,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -5721,7 +5721,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -5791,7 +5791,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -5869,7 +5869,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -5939,7 +5939,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -6017,7 +6017,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -6087,7 +6087,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -6165,7 +6165,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -6235,7 +6235,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -6313,7 +6313,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -6383,7 +6383,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -6461,7 +6461,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -6531,7 +6531,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -6609,7 +6609,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -6679,7 +6679,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -6757,7 +6757,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -6827,7 +6827,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -6905,7 +6905,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -6975,7 +6975,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -7053,7 +7053,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -7123,7 +7123,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -7201,7 +7201,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -7271,7 +7271,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -7349,7 +7349,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -7411,7 +7411,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -7481,7 +7481,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -7551,7 +7551,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -7629,7 +7629,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -7699,7 +7699,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -7777,7 +7777,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -7847,7 +7847,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -7925,7 +7925,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -7995,7 +7995,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -8073,7 +8073,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -8143,7 +8143,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -8221,7 +8221,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -8291,7 +8291,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -8369,7 +8369,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -8439,7 +8439,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -8517,7 +8517,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -8587,7 +8587,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -8665,7 +8665,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -8735,7 +8735,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -8813,7 +8813,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -8883,7 +8883,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -8961,7 +8961,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -9031,7 +9031,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -9109,7 +9109,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -9179,7 +9179,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -10747,7 +10747,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/fb/fb_bkg.flac"
+            "value": "../Samples/black/fb/fb_bkg.ogg"
           }
         }
       ]
@@ -10793,7 +10793,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/fb/fb_micro.flac"
+            "value": "../Samples/black/fb/fb_micro.ogg"
           }
         }
       ]
@@ -11187,7 +11187,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr1.flac"
+            "value": "../Samples/black/btb/btb_f3_rr1.ogg"
           }
         },
         {
@@ -11241,7 +11241,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr2.flac"
+            "value": "../Samples/black/btb/btb_f3_rr2.ogg"
           }
         },
         {
@@ -11303,7 +11303,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -11357,7 +11357,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -11419,7 +11419,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -11473,7 +11473,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -11535,7 +11535,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -11589,7 +11589,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -11651,7 +11651,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -11705,7 +11705,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -11767,7 +11767,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -11821,7 +11821,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -11883,7 +11883,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -11937,7 +11937,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -11999,7 +11999,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -12053,7 +12053,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -12115,7 +12115,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -12169,7 +12169,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -12231,7 +12231,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -12285,7 +12285,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -12347,7 +12347,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -12401,7 +12401,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -12463,7 +12463,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -12517,7 +12517,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -12579,7 +12579,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -12633,7 +12633,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -12695,7 +12695,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -12749,7 +12749,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -12811,7 +12811,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -12865,7 +12865,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -12927,7 +12927,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -12981,7 +12981,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -13043,7 +13043,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -13097,7 +13097,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -13159,7 +13159,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -13213,7 +13213,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -13275,7 +13275,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -13329,7 +13329,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -13391,7 +13391,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -13437,7 +13437,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -13491,7 +13491,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -13545,7 +13545,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -13607,7 +13607,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -13661,7 +13661,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -13723,7 +13723,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -13777,7 +13777,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -13839,7 +13839,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -13893,7 +13893,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -13955,7 +13955,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -14009,7 +14009,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -14071,7 +14071,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -14125,7 +14125,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -14187,7 +14187,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -14241,7 +14241,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -14303,7 +14303,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -14357,7 +14357,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -14419,7 +14419,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -14473,7 +14473,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -14535,7 +14535,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -14589,7 +14589,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -14651,7 +14651,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -14705,7 +14705,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -14767,7 +14767,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -14821,7 +14821,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -14883,7 +14883,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -14937,7 +14937,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -15085,7 +15085,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr1.flac"
+            "value": "../Samples/black/btb/btb_f3_rr1.ogg"
           }
         },
         {
@@ -15155,7 +15155,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f3_rr2.flac"
+            "value": "../Samples/black/btb/btb_f3_rr2.ogg"
           }
         },
         {
@@ -15233,7 +15233,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -15303,7 +15303,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -15381,7 +15381,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -15451,7 +15451,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -15529,7 +15529,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -15599,7 +15599,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -15677,7 +15677,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -15747,7 +15747,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -15825,7 +15825,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -15895,7 +15895,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -15973,7 +15973,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -16043,7 +16043,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -16121,7 +16121,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -16191,7 +16191,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -16269,7 +16269,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -16339,7 +16339,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -16417,7 +16417,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -16487,7 +16487,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -16565,7 +16565,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -16635,7 +16635,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -16713,7 +16713,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -16783,7 +16783,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -16861,7 +16861,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -16931,7 +16931,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -17009,7 +17009,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -17079,7 +17079,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -17157,7 +17157,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -17227,7 +17227,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -17305,7 +17305,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -17375,7 +17375,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -17453,7 +17453,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -17523,7 +17523,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -17601,7 +17601,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -17671,7 +17671,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -17749,7 +17749,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -17819,7 +17819,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -17897,7 +17897,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -17959,7 +17959,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -18029,7 +18029,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -18099,7 +18099,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -18177,7 +18177,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -18247,7 +18247,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -18325,7 +18325,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -18395,7 +18395,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -18473,7 +18473,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -18543,7 +18543,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -18621,7 +18621,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -18691,7 +18691,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -18769,7 +18769,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -18839,7 +18839,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -18917,7 +18917,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -18987,7 +18987,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -19065,7 +19065,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -19135,7 +19135,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -19213,7 +19213,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -19283,7 +19283,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -19361,7 +19361,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -19431,7 +19431,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -19509,7 +19509,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -19579,7 +19579,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -19657,7 +19657,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -19727,7 +19727,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -19805,7 +19805,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -19875,7 +19875,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -20333,7 +20333,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -20387,7 +20387,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -20449,7 +20449,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -20503,7 +20503,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -20565,7 +20565,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -20619,7 +20619,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -20681,7 +20681,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -20735,7 +20735,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -20797,7 +20797,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -20851,7 +20851,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -20913,7 +20913,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -20967,7 +20967,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -21029,7 +21029,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -21083,7 +21083,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -21145,7 +21145,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -21199,7 +21199,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -21261,7 +21261,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -21315,7 +21315,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -21377,7 +21377,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -21431,7 +21431,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -21493,7 +21493,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -21547,7 +21547,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -21609,7 +21609,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -21663,7 +21663,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -21725,7 +21725,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -21779,7 +21779,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -21841,7 +21841,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -21895,7 +21895,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -21957,7 +21957,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -22011,7 +22011,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -22073,7 +22073,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -22127,7 +22127,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -22189,7 +22189,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -22243,7 +22243,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -22305,7 +22305,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -22359,7 +22359,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -22421,7 +22421,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -22467,7 +22467,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -22521,7 +22521,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -22575,7 +22575,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -22637,7 +22637,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -22691,7 +22691,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -22753,7 +22753,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -22807,7 +22807,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -22869,7 +22869,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -22923,7 +22923,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -22985,7 +22985,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -23039,7 +23039,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -23101,7 +23101,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -23155,7 +23155,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -23217,7 +23217,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -23271,7 +23271,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -23333,7 +23333,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -23387,7 +23387,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -23449,7 +23449,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -23503,7 +23503,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -23565,7 +23565,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -23619,7 +23619,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -23681,7 +23681,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -23735,7 +23735,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -23797,7 +23797,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -23851,7 +23851,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -23913,7 +23913,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -23967,7 +23967,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -24029,7 +24029,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -24083,7 +24083,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -24231,7 +24231,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr1.ogg"
           }
         },
         {
@@ -24301,7 +24301,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb3_rr2.ogg"
           }
         },
         {
@@ -24379,7 +24379,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr1.flac"
+            "value": "../Samples/black/btb/btb_g3_rr1.ogg"
           }
         },
         {
@@ -24449,7 +24449,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g3_rr2.flac"
+            "value": "../Samples/black/btb/btb_g3_rr2.ogg"
           }
         },
         {
@@ -24527,7 +24527,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr1.ogg"
           }
         },
         {
@@ -24597,7 +24597,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab3_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab3_rr2.ogg"
           }
         },
         {
@@ -24675,7 +24675,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr1.flac"
+            "value": "../Samples/black/btb/btb_a3_rr1.ogg"
           }
         },
         {
@@ -24745,7 +24745,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a3_rr2.flac"
+            "value": "../Samples/black/btb/btb_a3_rr2.ogg"
           }
         },
         {
@@ -24823,7 +24823,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr1.ogg"
           }
         },
         {
@@ -24893,7 +24893,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb3_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb3_rr2.ogg"
           }
         },
         {
@@ -24971,7 +24971,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr1.flac"
+            "value": "../Samples/black/btb/btb_b3_rr1.ogg"
           }
         },
         {
@@ -25041,7 +25041,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b3_rr2.flac"
+            "value": "../Samples/black/btb/btb_b3_rr2.ogg"
           }
         },
         {
@@ -25119,7 +25119,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr1.flac"
+            "value": "../Samples/black/btb/btb_c4_rr1.ogg"
           }
         },
         {
@@ -25189,7 +25189,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c4_rr2.flac"
+            "value": "../Samples/black/btb/btb_c4_rr2.ogg"
           }
         },
         {
@@ -25267,7 +25267,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr1.flac"
+            "value": "../Samples/black/btb/btb_db4_rr1.ogg"
           }
         },
         {
@@ -25337,7 +25337,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db4_rr2.flac"
+            "value": "../Samples/black/btb/btb_db4_rr2.ogg"
           }
         },
         {
@@ -25415,7 +25415,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr1.flac"
+            "value": "../Samples/black/btb/btb_d4_rr1.ogg"
           }
         },
         {
@@ -25485,7 +25485,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d4_rr2.flac"
+            "value": "../Samples/black/btb/btb_d4_rr2.ogg"
           }
         },
         {
@@ -25563,7 +25563,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr1.ogg"
           }
         },
         {
@@ -25633,7 +25633,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb4_rr2.ogg"
           }
         },
         {
@@ -25711,7 +25711,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr1.flac"
+            "value": "../Samples/black/btb/btb_e4_rr1.ogg"
           }
         },
         {
@@ -25781,7 +25781,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e4_rr2.flac"
+            "value": "../Samples/black/btb/btb_e4_rr2.ogg"
           }
         },
         {
@@ -25859,7 +25859,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr1.flac"
+            "value": "../Samples/black/btb/btb_f4_rr1.ogg"
           }
         },
         {
@@ -25929,7 +25929,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f4_rr2.flac"
+            "value": "../Samples/black/btb/btb_f4_rr2.ogg"
           }
         },
         {
@@ -26007,7 +26007,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr1.ogg"
           }
         },
         {
@@ -26077,7 +26077,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb4_rr2.ogg"
           }
         },
         {
@@ -26155,7 +26155,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr1.flac"
+            "value": "../Samples/black/btb/btb_g4_rr1.ogg"
           }
         },
         {
@@ -26225,7 +26225,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g4_rr2.flac"
+            "value": "../Samples/black/btb/btb_g4_rr2.ogg"
           }
         },
         {
@@ -26303,7 +26303,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr1.ogg"
           }
         },
         {
@@ -26373,7 +26373,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab4_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab4_rr2.ogg"
           }
         },
         {
@@ -26451,7 +26451,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr1.flac"
+            "value": "../Samples/black/btb/btb_a4_rr1.ogg"
           }
         },
         {
@@ -26521,7 +26521,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a4_rr2.flac"
+            "value": "../Samples/black/btb/btb_a4_rr2.ogg"
           }
         },
         {
@@ -26599,7 +26599,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr1.ogg"
           }
         },
         {
@@ -26669,7 +26669,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb4_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb4_rr2.ogg"
           }
         },
         {
@@ -26747,7 +26747,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr1.flac"
+            "value": "../Samples/black/btb/btb_b4_rr1.ogg"
           }
         },
         {
@@ -26817,7 +26817,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b4_rr2.flac"
+            "value": "../Samples/black/btb/btb_b4_rr2.ogg"
           }
         },
         {
@@ -26895,7 +26895,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr1.flac"
+            "value": "../Samples/black/btb/btb_c5_rr1.ogg"
           }
         },
         {
@@ -26957,7 +26957,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c5_rr2.flac"
+            "value": "../Samples/black/btb/btb_c5_rr2.ogg"
           }
         },
         {
@@ -27027,7 +27027,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr1.flac"
+            "value": "../Samples/black/btb/btb_db5_rr1.ogg"
           }
         },
         {
@@ -27097,7 +27097,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_db5_rr2.flac"
+            "value": "../Samples/black/btb/btb_db5_rr2.ogg"
           }
         },
         {
@@ -27175,7 +27175,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr1.flac"
+            "value": "../Samples/black/btb/btb_d5_rr1.ogg"
           }
         },
         {
@@ -27245,7 +27245,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_d5_rr2.flac"
+            "value": "../Samples/black/btb/btb_d5_rr2.ogg"
           }
         },
         {
@@ -27323,7 +27323,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr1.ogg"
           }
         },
         {
@@ -27393,7 +27393,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_eb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_eb5_rr2.ogg"
           }
         },
         {
@@ -27471,7 +27471,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr1.flac"
+            "value": "../Samples/black/btb/btb_e5_rr1.ogg"
           }
         },
         {
@@ -27541,7 +27541,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_e5_rr2.flac"
+            "value": "../Samples/black/btb/btb_e5_rr2.ogg"
           }
         },
         {
@@ -27619,7 +27619,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr1.flac"
+            "value": "../Samples/black/btb/btb_f5_rr1.ogg"
           }
         },
         {
@@ -27689,7 +27689,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_f5_rr2.flac"
+            "value": "../Samples/black/btb/btb_f5_rr2.ogg"
           }
         },
         {
@@ -27767,7 +27767,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr1.ogg"
           }
         },
         {
@@ -27837,7 +27837,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_gb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_gb5_rr2.ogg"
           }
         },
         {
@@ -27915,7 +27915,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr1.flac"
+            "value": "../Samples/black/btb/btb_g5_rr1.ogg"
           }
         },
         {
@@ -27985,7 +27985,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_g5_rr2.flac"
+            "value": "../Samples/black/btb/btb_g5_rr2.ogg"
           }
         },
         {
@@ -28063,7 +28063,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr1.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr1.ogg"
           }
         },
         {
@@ -28133,7 +28133,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_ab5_rr2.flac"
+            "value": "../Samples/black/btb/btb_ab5_rr2.ogg"
           }
         },
         {
@@ -28211,7 +28211,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr1.flac"
+            "value": "../Samples/black/btb/btb_a5_rr1.ogg"
           }
         },
         {
@@ -28281,7 +28281,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_a5_rr2.flac"
+            "value": "../Samples/black/btb/btb_a5_rr2.ogg"
           }
         },
         {
@@ -28359,7 +28359,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -28429,7 +28429,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -28507,7 +28507,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -28577,7 +28577,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
@@ -28655,7 +28655,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr1.flac"
+            "value": "../Samples/black/btb/btb_c6_rr1.ogg"
           }
         },
         {
@@ -28725,7 +28725,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_c6_rr2.flac"
+            "value": "../Samples/black/btb/btb_c6_rr2.ogg"
           }
         },
         {
@@ -28803,7 +28803,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr1.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr1.ogg"
           }
         },
         {
@@ -28873,7 +28873,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_bb5_rr2.flac"
+            "value": "../Samples/black/btb/btb_bb5_rr2.ogg"
           }
         },
         {
@@ -28951,7 +28951,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr1.flac"
+            "value": "../Samples/black/btb/btb_b5_rr1.ogg"
           }
         },
         {
@@ -29021,7 +29021,7 @@
           "name": "opcode",
           "attributes": {
             "name": "sample",
-            "value": "../Samples/black/btb/btb_b5_rr2.flac"
+            "value": "../Samples/black/btb/btb_b5_rr2.ogg"
           }
         },
         {
