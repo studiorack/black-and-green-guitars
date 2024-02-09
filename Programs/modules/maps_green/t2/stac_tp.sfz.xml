@@ -1,0 +1,2018 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb3_rr4.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb3_rr3.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb3_rr2.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb3_rr1.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g3_rr4.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g3_rr3.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g3_rr2.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g3_rr1.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab3_rr4.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab3_rr3.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab3_rr2.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab3_rr1.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="208" />
+	<opcode name="bend_down" value="-208" />
+	<opcode name="lfo02_pitch_oncc113" value="93" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a3_rr4.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a3_rr3.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a3_rr2.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a3_rr1.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb3_rr4.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb3_rr3.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb3_rr2.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb3_rr1.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b3_rr4.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b3_rr3.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b3_rr2.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b3_rr1.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c4_rr4.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c4_rr3.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c4_rr2.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c4_rr1.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db4_rr4.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db4_rr3.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db4_rr2.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db4_rr1.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="138" />
+	<opcode name="bend_down" value="-138" />
+	<opcode name="lfo02_pitch_oncc113" value="61" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d4_rr4.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d4_rr3.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d4_rr2.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d4_rr1.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb4_rr4.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb4_rr3.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb4_rr2.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb4_rr1.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e4_rr4.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e4_rr3.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e4_rr2.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e4_rr1.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f4_rr4.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f4_rr3.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f4_rr2.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f4_rr1.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb4_rr4.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb4_rr3.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb4_rr2.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb4_rr1.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="163" />
+	<opcode name="bend_down" value="-163" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g4_rr4.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g4_rr3.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g4_rr2.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g4_rr1.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab4_rr4.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab4_rr3.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab4_rr2.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab4_rr1.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a4_rr4.ogg" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a4_rr3.ogg" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a4_rr2.ogg" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a4_rr1.ogg" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb4_rr4.ogg" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb4_rr3.ogg" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb4_rr2.ogg" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb4_rr1.ogg" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="150" />
+	<opcode name="bend_down" value="-150" />
+	<opcode name="lfo02_pitch_oncc113" value="67" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b4_rr4.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b4_rr3.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b4_rr2.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b4_rr1.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c5_rr4.ogg" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c5_rr3.ogg" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c5_rr2.ogg" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c5_rr1.ogg" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db5_rr4.ogg" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db5_rr3.ogg" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db5_rr2.ogg" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db5_rr1.ogg" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d5_rr4.ogg" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d5_rr3.ogg" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d5_rr2.ogg" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d5_rr1.ogg" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb5_rr4.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb5_rr3.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb5_rr2.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb5_rr1.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="123" />
+	<opcode name="bend_down" value="-123" />
+	<opcode name="lfo02_pitch_oncc113" value="54" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e5_rr4.ogg" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e5_rr3.ogg" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e5_rr2.ogg" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e5_rr1.ogg" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f5_rr4.ogg" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f5_rr3.ogg" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f5_rr2.ogg" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f5_rr1.ogg" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb5_rr4.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb5_rr3.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb5_rr2.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb5_rr1.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g5_rr4.ogg" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g5_rr3.ogg" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g5_rr2.ogg" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g5_rr1.ogg" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab5_rr4.ogg" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab5_rr3.ogg" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab5_rr2.ogg" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab5_rr1.ogg" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="84" />
+	<opcode name="bend_down" value="-84" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a5_rr4.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="82" />
+	<opcode name="bend_down" value="-82" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a5_rr3.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="82" />
+	<opcode name="bend_down" value="-82" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a5_rr2.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="82" />
+	<opcode name="bend_down" value="-82" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a5_rr1.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="82" />
+	<opcode name="bend_down" value="-82" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb5_rr4.ogg" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb5_rr3.ogg" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb5_rr2.ogg" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb5_rr1.ogg" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b5_rr4.ogg" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="lfo02_pitch_oncc113" value="34" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b5_rr3.ogg" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="lfo02_pitch_oncc113" value="34" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b5_rr2.ogg" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="lfo02_pitch_oncc113" value="34" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b5_rr1.ogg" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="lfo02_pitch_oncc113" value="34" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c6_rr4.ogg" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="75" />
+	<opcode name="bend_down" value="-75" />
+	<opcode name="lfo02_pitch_oncc113" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c6_rr3.ogg" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="75" />
+	<opcode name="bend_down" value="-75" />
+	<opcode name="lfo02_pitch_oncc113" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c6_rr2.ogg" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="75" />
+	<opcode name="bend_down" value="-75" />
+	<opcode name="lfo02_pitch_oncc113" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c6_rr1.ogg" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="75" />
+	<opcode name="bend_down" value="-75" />
+	<opcode name="lfo02_pitch_oncc113" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db6_rr4.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="73" />
+	<opcode name="bend_down" value="-73" />
+	<opcode name="lfo02_pitch_oncc113" value="32" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db6_rr3.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="73" />
+	<opcode name="bend_down" value="-73" />
+	<opcode name="lfo02_pitch_oncc113" value="32" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db6_rr2.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="73" />
+	<opcode name="bend_down" value="-73" />
+	<opcode name="lfo02_pitch_oncc113" value="32" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db6_rr1.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="73" />
+	<opcode name="bend_down" value="-73" />
+	<opcode name="lfo02_pitch_oncc113" value="32" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d6_rr4.ogg" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="71" />
+	<opcode name="bend_down" value="-71" />
+	<opcode name="lfo02_pitch_oncc113" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d6_rr3.ogg" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="71" />
+	<opcode name="bend_down" value="-71" />
+	<opcode name="lfo02_pitch_oncc113" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d6_rr2.ogg" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="71" />
+	<opcode name="bend_down" value="-71" />
+	<opcode name="lfo02_pitch_oncc113" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d6_rr1.ogg" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="71" />
+	<opcode name="bend_down" value="-71" />
+	<opcode name="lfo02_pitch_oncc113" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb6_rr4.ogg" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="69" />
+	<opcode name="bend_down" value="-69" />
+	<opcode name="lfo02_pitch_oncc113" value="30" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb6_rr3.ogg" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="69" />
+	<opcode name="bend_down" value="-69" />
+	<opcode name="lfo02_pitch_oncc113" value="30" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb6_rr2.ogg" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="69" />
+	<opcode name="bend_down" value="-69" />
+	<opcode name="lfo02_pitch_oncc113" value="30" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_eb6_rr1.ogg" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="69" />
+	<opcode name="bend_down" value="-69" />
+	<opcode name="lfo02_pitch_oncc113" value="30" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e6_rr4.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="67" />
+	<opcode name="bend_down" value="-67" />
+	<opcode name="lfo02_pitch_oncc113" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e6_rr3.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="67" />
+	<opcode name="bend_down" value="-67" />
+	<opcode name="lfo02_pitch_oncc113" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e6_rr2.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="67" />
+	<opcode name="bend_down" value="-67" />
+	<opcode name="lfo02_pitch_oncc113" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_e6_rr1.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="67" />
+	<opcode name="bend_down" value="-67" />
+	<opcode name="lfo02_pitch_oncc113" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f6_rr4.ogg" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f6_rr3.ogg" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f6_rr2.ogg" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_f6_rr1.ogg" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb6_rr4.ogg" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb6_rr3.ogg" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb6_rr2.ogg" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_gb6_rr1.ogg" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="lfo02_pitch_oncc113" value="28" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g6_rr4.ogg" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="lfo02_pitch_oncc113" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g6_rr3.ogg" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="lfo02_pitch_oncc113" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g6_rr2.ogg" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="lfo02_pitch_oncc113" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_g6_rr1.ogg" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="lfo02_pitch_oncc113" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab6_rr4.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="59" />
+	<opcode name="bend_down" value="-59" />
+	<opcode name="lfo02_pitch_oncc113" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab6_rr3.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="59" />
+	<opcode name="bend_down" value="-59" />
+	<opcode name="lfo02_pitch_oncc113" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab6_rr2.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="59" />
+	<opcode name="bend_down" value="-59" />
+	<opcode name="lfo02_pitch_oncc113" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_ab6_rr1.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="59" />
+	<opcode name="bend_down" value="-59" />
+	<opcode name="lfo02_pitch_oncc113" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a6_rr4.ogg" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="56" />
+	<opcode name="bend_down" value="-56" />
+	<opcode name="lfo02_pitch_oncc113" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a6_rr3.ogg" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="56" />
+	<opcode name="bend_down" value="-56" />
+	<opcode name="lfo02_pitch_oncc113" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a6_rr2.ogg" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="56" />
+	<opcode name="bend_down" value="-56" />
+	<opcode name="lfo02_pitch_oncc113" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_a6_rr1.ogg" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="56" />
+	<opcode name="bend_down" value="-56" />
+	<opcode name="lfo02_pitch_oncc113" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb6_rr4.ogg" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb6_rr3.ogg" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb6_rr2.ogg" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_bb6_rr1.ogg" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b6_rr4.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b6_rr3.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b6_rr2.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_b6_rr1.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr4.ogg" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr3.ogg" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr2.ogg" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr1.ogg" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr4.ogg" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr3.ogg" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr2.ogg" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr1.ogg" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d7_rr4.ogg" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d7_rr3.ogg" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d7_rr2.ogg" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_d7_rr1.ogg" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr4.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr3.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr2.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_c7_rr1.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr4.ogg" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr3.ogg" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr2.ogg" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/green/stac/staccato_db7_rr1.ogg" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="46" />
+	<opcode name="bend_down" value="-46" />
+	<opcode name="lfo02_pitch_oncc113" value="20" />
+</region>

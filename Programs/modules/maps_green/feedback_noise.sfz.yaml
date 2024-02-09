@@ -1,0 +1,53 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_curvecc29
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/green/fb/fb_bkg.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_curvecc29
+          value: '17'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/green/fb/fb_micro.ogg
+

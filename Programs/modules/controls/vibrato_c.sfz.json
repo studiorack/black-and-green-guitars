@@ -1,0 +1,238 @@
+{
+  "elements": {
+    "elements": [
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "bend_up",
+          "value": "320"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "bend_down",
+          "value": "320"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo02_pitch_oncc111",
+          "value": "90"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "pitcheg_depth_oncc111",
+          "value": "90"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo01_pitch_oncc112",
+          "value": "60"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo01_freq",
+          "value": "0.5"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo01_freq_oncc114",
+          "value": "6"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo01_delay_oncc116",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo02_freq",
+          "value": "0.5"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo02_freq_oncc114",
+          "value": "6"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo02_phase",
+          "value": "0.75"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo02_delay_oncc116",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "pitcheg_delay_oncc116",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_wave",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_phase",
+          "value": "0.3"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_phase_oncc131",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_freq",
+          "value": "0.01"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_freq_oncc117",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_pitch_oncc117",
+          "value": "6"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_freq_lfo01_oncc117",
+          "value": "1.3"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo03_freq_lfo02_oncc117",
+          "value": "1.3"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_wave",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_phase",
+          "value": "0.871"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_phase_oncc131",
+          "value": "0.129"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_freq",
+          "value": "0.5"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_freq_oncc117",
+          "value": "-0.4"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_freq_oncc136",
+          "value": "0.1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_freq_lfo3_oncc117",
+          "value": "1"
+        }
+      },
+      {
+        "type": "element",
+        "name": "opcode",
+        "attributes": {
+          "name": "lfo04_pitch_oncc117",
+          "value": "-4"
+        }
+      }
+    ]
+  }
+}
