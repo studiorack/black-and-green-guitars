@@ -1,0 +1,498 @@
+{
+  "region": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "40"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "44"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "transpose",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "225"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-225"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "100"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "45"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "46"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "transpose",
+            "value": "24"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "149"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-149"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "66"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "47"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "48"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "transpose",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "149"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-149"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "66"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "49"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "54"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "transpose",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "176"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-176"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "78"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "55"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "58"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "transpose",
+            "value": "12"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "162"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-162"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "72"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "59"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "63"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "133"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-133"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "59"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "64"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "68"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "90"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-90"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "40"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "69"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "69"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keycenter",
+            "value": "69"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "88"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-88"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "39"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "70"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "70"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keycenter",
+            "value": "70"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "86"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-86"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "38"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "71"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "71"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keycenter",
+            "value": "71"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "83"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-83"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "37"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "sample",
+            "value": "*sine"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lokey",
+            "value": "72"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "hikey",
+            "value": "72"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "pitch_keycenter",
+            "value": "72"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_up",
+            "value": "81"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "bend_down",
+            "value": "-81"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "lfo02_pitch_oncc113",
+            "value": "36"
+          }
+        }
+      ]
+    }
+  ]
+}

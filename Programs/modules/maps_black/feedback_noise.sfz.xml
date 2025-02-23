@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="group" value="5" />
+	<opcode name="off_by" value="5" />
+	<opcode name="amplitude_curvecc29" value="16" />
+	<opcode name="sample" value="../Samples/black/fb/fb_bkg.flac" />
+</region>
+<region>
+	<opcode name="group" value="6" />
+	<opcode name="off_by" value="6" />
+	<opcode name="amplitude_curvecc29" value="17" />
+	<opcode name="volume" value="9" />
+	<opcode name="sample" value="../Samples/black/fb/fb_micro.flac" />
+</region>

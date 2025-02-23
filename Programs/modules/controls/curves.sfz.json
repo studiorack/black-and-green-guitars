@@ -1,0 +1,156 @@
+{
+  "curve": [
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "curve_index",
+            "value": "7"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v000",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v095",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v127",
+            "value": "1"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "curve_index",
+            "value": "8"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v000",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v095",
+            "value": "0.5"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v127",
+            "value": "1"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "curve_index",
+            "value": "15"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v000",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v80",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v100",
+            "value": "0.7"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v127",
+            "value": "0"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "curve_index",
+            "value": "16"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v000",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v31",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v80",
+            "value": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v127",
+            "value": "0"
+          }
+        }
+      ]
+    },
+    {
+      "opcode": [
+        {
+          "_attributes": {
+            "name": "curve_index",
+            "value": "17"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v000",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v80",
+            "value": "0"
+          }
+        },
+        {
+          "_attributes": {
+            "name": "v127",
+            "value": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<curve>
+	<opcode name="curve_index" value="7" />
+	<opcode name="v000" value="0" />
+	<opcode name="v095" value="1" />
+	<opcode name="v127" value="1" />
+</curve>
+<curve>
+	<opcode name="curve_index" value="8" />
+	<opcode name="v000" value="0" />
+	<opcode name="v095" value="0.5" />
+	<opcode name="v127" value="1" />
+</curve>
+<curve>
+	<opcode name="curve_index" value="15" />
+	<opcode name="v000" value="0" />
+	<opcode name="v80" value="1" />
+	<opcode name="v100" value="0.7" />
+	<opcode name="v127" value="0" />
+</curve>
+<curve>
+	<opcode name="curve_index" value="16" />
+	<opcode name="v000" value="0" />
+	<opcode name="v31" value="1" />
+	<opcode name="v80" value="1" />
+	<opcode name="v127" value="0" />
+</curve>
+<curve>
+	<opcode name="curve_index" value="17" />
+	<opcode name="v000" value="0" />
+	<opcode name="v80" value="0" />
+	<opcode name="v127" value="1" />
+</curve>

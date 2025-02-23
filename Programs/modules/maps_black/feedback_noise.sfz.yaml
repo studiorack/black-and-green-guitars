@@ -1,0 +1,31 @@
+region:
+  - opcode:
+      - _attributes:
+          name: group
+          value: '5'
+      - _attributes:
+          name: off_by
+          value: '5'
+      - _attributes:
+          name: amplitude_curvecc29
+          value: '16'
+      - _attributes:
+          name: sample
+          value: ../Samples/black/fb/fb_bkg.flac
+  - opcode:
+      - _attributes:
+          name: group
+          value: '6'
+      - _attributes:
+          name: off_by
+          value: '6'
+      - _attributes:
+          name: amplitude_curvecc29
+          value: '17'
+      - _attributes:
+          name: volume
+          value: '9'
+      - _attributes:
+          name: sample
+          value: ../Samples/black/fb/fb_micro.flac
+

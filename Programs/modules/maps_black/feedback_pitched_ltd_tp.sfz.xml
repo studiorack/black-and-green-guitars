@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="44" />
+	<opcode name="transpose" value="24" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="lfo02_pitch_oncc113" value="100" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="46" />
+	<opcode name="transpose" value="24" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="lfo02_pitch_oncc113" value="66" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="48" />
+	<opcode name="transpose" value="12" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="lfo02_pitch_oncc113" value="66" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="54" />
+	<opcode name="transpose" value="12" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="lfo02_pitch_oncc113" value="78" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="58" />
+	<opcode name="transpose" value="12" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="lfo02_pitch_oncc113" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="63" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="lfo02_pitch_oncc113" value="59" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="68" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="lfo02_pitch_oncc113" value="40" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="88" />
+	<opcode name="bend_down" value="-88" />
+	<opcode name="lfo02_pitch_oncc113" value="39" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="86" />
+	<opcode name="bend_down" value="-86" />
+	<opcode name="lfo02_pitch_oncc113" value="38" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="83" />
+	<opcode name="bend_down" value="-83" />
+	<opcode name="lfo02_pitch_oncc113" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="*sine" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="81" />
+	<opcode name="bend_down" value="-81" />
+	<opcode name="lfo02_pitch_oncc113" value="36" />
+</region>

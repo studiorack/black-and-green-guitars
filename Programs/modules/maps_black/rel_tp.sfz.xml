@@ -1,0 +1,2018 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e3_rr4.flac" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e3_rr3.flac" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e3_rr2.flac" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e3_rr1.flac" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f3_rr4.flac" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f3_rr3.flac" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f3_rr2.flac" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f3_rr1.flac" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb3_rr4.flac" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb3_rr3.flac" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb3_rr2.flac" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb3_rr1.flac" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g3_rr4.flac" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g3_rr3.flac" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g3_rr2.flac" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g3_rr1.flac" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab3_rr4.flac" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab3_rr3.flac" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab3_rr2.flac" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab3_rr1.flac" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="bend_up" value="225" />
+	<opcode name="bend_down" value="-225" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a3_rr4.flac" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a3_rr3.flac" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a3_rr2.flac" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a3_rr1.flac" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb3_rr4.flac" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb3_rr3.flac" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb3_rr2.flac" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb3_rr1.flac" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b3_rr4.flac" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b3_rr3.flac" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b3_rr2.flac" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b3_rr1.flac" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c4_rr4.flac" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c4_rr3.flac" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c4_rr2.flac" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c4_rr1.flac" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db4_rr4.flac" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db4_rr3.flac" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db4_rr2.flac" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db4_rr1.flac" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="bend_up" value="149" />
+	<opcode name="bend_down" value="-149" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d4_rr4.flac" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d4_rr3.flac" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d4_rr2.flac" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d4_rr1.flac" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb4_rr4.flac" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb4_rr3.flac" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb4_rr2.flac" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb4_rr1.flac" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e4_rr4.flac" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e4_rr3.flac" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e4_rr2.flac" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e4_rr1.flac" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f4_rr4.flac" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f4_rr3.flac" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f4_rr2.flac" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f4_rr1.flac" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb4_rr4.flac" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb4_rr3.flac" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb4_rr2.flac" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb4_rr1.flac" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="bend_up" value="176" />
+	<opcode name="bend_down" value="-176" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g4_rr4.flac" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g4_rr3.flac" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g4_rr2.flac" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g4_rr1.flac" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="55" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab4_rr4.flac" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab4_rr3.flac" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab4_rr2.flac" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab4_rr1.flac" />
+	<opcode name="lokey" value="56" />
+	<opcode name="hikey" value="56" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a4_rr4.flac" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a4_rr3.flac" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a4_rr2.flac" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a4_rr1.flac" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb4_rr4.flac" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb4_rr3.flac" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb4_rr2.flac" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb4_rr1.flac" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="bend_up" value="162" />
+	<opcode name="bend_down" value="-162" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b4_rr4.flac" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b4_rr3.flac" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b4_rr2.flac" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b4_rr1.flac" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c5_rr4.flac" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c5_rr3.flac" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c5_rr2.flac" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c5_rr1.flac" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="60" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db5_rr4.flac" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db5_rr3.flac" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db5_rr2.flac" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db5_rr1.flac" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d5_rr4.flac" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d5_rr3.flac" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d5_rr2.flac" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d5_rr1.flac" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb5_rr4.flac" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb5_rr3.flac" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb5_rr2.flac" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb5_rr1.flac" />
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="bend_up" value="133" />
+	<opcode name="bend_down" value="-133" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e5_rr4.flac" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e5_rr3.flac" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e5_rr2.flac" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e5_rr1.flac" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f5_rr4.flac" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f5_rr3.flac" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f5_rr2.flac" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f5_rr1.flac" />
+	<opcode name="lokey" value="65" />
+	<opcode name="hikey" value="65" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb5_rr4.flac" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb5_rr3.flac" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb5_rr2.flac" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb5_rr1.flac" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g5_rr4.flac" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g5_rr3.flac" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g5_rr2.flac" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g5_rr1.flac" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab5_rr4.flac" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab5_rr3.flac" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab5_rr2.flac" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab5_rr1.flac" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="68" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="bend_up" value="90" />
+	<opcode name="bend_down" value="-90" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a5_rr4.flac" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="88" />
+	<opcode name="bend_down" value="-88" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a5_rr3.flac" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="88" />
+	<opcode name="bend_down" value="-88" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a5_rr2.flac" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="88" />
+	<opcode name="bend_down" value="-88" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a5_rr1.flac" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="69" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="bend_up" value="88" />
+	<opcode name="bend_down" value="-88" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb5_rr4.flac" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="86" />
+	<opcode name="bend_down" value="-86" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb5_rr3.flac" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="86" />
+	<opcode name="bend_down" value="-86" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb5_rr2.flac" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="86" />
+	<opcode name="bend_down" value="-86" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb5_rr1.flac" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="bend_up" value="86" />
+	<opcode name="bend_down" value="-86" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b5_rr4.flac" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="83" />
+	<opcode name="bend_down" value="-83" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b5_rr3.flac" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="83" />
+	<opcode name="bend_down" value="-83" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b5_rr2.flac" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="83" />
+	<opcode name="bend_down" value="-83" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b5_rr1.flac" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="bend_up" value="83" />
+	<opcode name="bend_down" value="-83" />
+	<opcode name="rt_decay" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c6_rr4.flac" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="81" />
+	<opcode name="bend_down" value="-81" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c6_rr3.flac" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="81" />
+	<opcode name="bend_down" value="-81" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c6_rr2.flac" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="81" />
+	<opcode name="bend_down" value="-81" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c6_rr1.flac" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="bend_up" value="81" />
+	<opcode name="bend_down" value="-81" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db6_rr4.flac" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db6_rr3.flac" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db6_rr2.flac" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db6_rr1.flac" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="73" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="bend_up" value="79" />
+	<opcode name="bend_down" value="-79" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d6_rr4.flac" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d6_rr3.flac" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d6_rr2.flac" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d6_rr1.flac" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="74" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="bend_up" value="77" />
+	<opcode name="bend_down" value="-77" />
+	<opcode name="rt_decay" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb6_rr4.flac" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="74" />
+	<opcode name="bend_down" value="-74" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb6_rr3.flac" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="74" />
+	<opcode name="bend_down" value="-74" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb6_rr2.flac" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="74" />
+	<opcode name="bend_down" value="-74" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_eb6_rr1.flac" />
+	<opcode name="lokey" value="75" />
+	<opcode name="hikey" value="75" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="75" />
+	<opcode name="bend_up" value="74" />
+	<opcode name="bend_down" value="-74" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e6_rr4.flac" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="72" />
+	<opcode name="bend_down" value="-72" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e6_rr3.flac" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="72" />
+	<opcode name="bend_down" value="-72" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e6_rr2.flac" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="72" />
+	<opcode name="bend_down" value="-72" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_e6_rr1.flac" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="76" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="bend_up" value="72" />
+	<opcode name="bend_down" value="-72" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f6_rr4.flac" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="70" />
+	<opcode name="bend_down" value="-70" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f6_rr3.flac" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="70" />
+	<opcode name="bend_down" value="-70" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f6_rr2.flac" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="70" />
+	<opcode name="bend_down" value="-70" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_f6_rr1.flac" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="bend_up" value="70" />
+	<opcode name="bend_down" value="-70" />
+	<opcode name="rt_decay" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb6_rr4.flac" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="68" />
+	<opcode name="bend_down" value="-68" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb6_rr3.flac" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="68" />
+	<opcode name="bend_down" value="-68" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb6_rr2.flac" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="68" />
+	<opcode name="bend_down" value="-68" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_gb6_rr1.flac" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="78" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="bend_up" value="68" />
+	<opcode name="bend_down" value="-68" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g6_rr4.flac" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g6_rr3.flac" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g6_rr2.flac" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_g6_rr1.flac" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="79" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="bend_up" value="65" />
+	<opcode name="bend_down" value="-65" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab6_rr4.flac" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab6_rr3.flac" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab6_rr2.flac" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_ab6_rr1.flac" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="bend_up" value="63" />
+	<opcode name="bend_down" value="-63" />
+	<opcode name="rt_decay" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a6_rr4.flac" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a6_rr3.flac" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a6_rr2.flac" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_a6_rr1.flac" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="bend_up" value="61" />
+	<opcode name="bend_down" value="-61" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb6_rr4.flac" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb6_rr3.flac" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb6_rr2.flac" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_bb6_rr1.flac" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b6_rr4.flac" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b6_rr3.flac" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b6_rr2.flac" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_b6_rr1.flac" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c7_rr4.flac" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c7_rr3.flac" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c7_rr2.flac" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_c7_rr1.flac" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="84" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db7_rr4.flac" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db7_rr3.flac" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db7_rr2.flac" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_db7_rr1.flac" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="85" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d7_rr4.flac" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d7_rr3.flac" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d7_rr2.flac" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/black/rel/release_d7_rr1.flac" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="bend_up" value="50" />
+	<opcode name="bend_down" value="-50" />
+	<opcode name="rt_decay" value="15" />
+</region>
